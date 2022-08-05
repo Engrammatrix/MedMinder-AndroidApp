@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/layout/custom_row.xml" value="0.209375" />
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/layout/fragment_add.xml" value="0.5" />
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/layout/fragment_list.xml" value="0.209375" />
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/layout/fragment_update.xml" value="0.67" />
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/layout/list_row.xml" value="0.209375" />
+        <entry key="..\:/Users/hashi/Desktop/Uni/Mobile/csci4176-mobile-project-group-6/MedMinder/app/src/main/res/menu/add_menu.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30362116991643456" />
+        <entry key="app/src/main/res/layout/add_medicine 2.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/add_medicine.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custom_row.xml" value="0.10729166666666666" />
+        <entry key="app/src/main/res/layout/edit_reminder.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/edit_reminder_list.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_add.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_add_reminder.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_create_note.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_notes_list.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_reminders_list.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_update_reminder.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/list_row.xml" value="0.17222222222222222" />
+        <entry key="app/src/main/res/layout/reminder_row.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

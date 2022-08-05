@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MedMinder</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="medication_dosage">Medication Dosage</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="reminder_list">Reminder List</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="update_reminder">Update Reminder</string>
+    <string name="repeat">Repeat</string>
+    <string name="frequency">Repeat Interval (Days)</string>
+    <string name="reminder_text">Reminder Frequency and Time</string>
+    <string name="medication_text">Medication Details</string>
+    <string name="successful_add">Successfully added!</string>
+    <string name="successful_update">Successfully updated!</string>
+    <string name="no_add">Please provide medication details!</string>
+    <string name="rem_cancelled">Reminder cancelled</string>
+    <string name="rem_activated">Reminder activated</string>
+    <string name="del_dialog1">Delete</string>
+    <string name="del_dialog2">Are you sure you want to delete</string>
+    <string name="del_success">Successfully deleted:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

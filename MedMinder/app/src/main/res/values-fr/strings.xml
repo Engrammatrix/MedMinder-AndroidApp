@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedMinder</string>
+    <string name="medication_name">Nom du médicament</string>
+    <string name="medication_dosage">Posologie des médicaments</string>
+    <string name="add">Ajouter</string>
+    <string name="update">Mettre à jour</string>
+    <string name="reminder_list">Liste de rappel</string>
+    <string name="add_reminder">Ajouter un rappel</string>
+    <string name="update_reminder">Rappel de mise à jour</string>
+    <string name="repeat">Répéter</string>
+    <string name="frequency">Intervalle de répétition (jours)</string>
+    <string name="reminder_text">Fréquence et heure des rappels</string>
+    <string name="medication_text">Détails des médicaments</string>
+    <string name="successful_add">Ajouté avec succès!</string>
+    <string name="successful_update">Mise à jour réussie!</string>
+    <string name="no_add">Rien d\'ajouté. Veuillez fournir des détails sur les médicaments.</string>
+    <string name="rem_cancelled">Rappel annulé</string>
+    <string name="rem_activated">Rappel activé</string>
+    <string name="del_dialog1">Effacer</string>
+    <string name="del_dialog2">Etes-vous sûr que vous voulez supprimer</string>
+    <string name="del_success">Supprimé avec succès:</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
